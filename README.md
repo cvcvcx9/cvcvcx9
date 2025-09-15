@@ -62,7 +62,7 @@
 ## 📫 Contact
 
 - 📧 Email: cvcvcx9@gmail.com  
-- 📝 Blog: [tistory.com/cvcvcx9](tistory.com/cvcvcx9)  
+- 📝 Blog: ![tistory.com/cvcvcx9](tistory.com/cvcvcx9)  
 
 ---
 ✨ “꾸준히 배우고, 함께 성장하는 개발자”가 되겠습니다!
