@@ -31,7 +31,7 @@
 
 ## 🚀 Projects
 
-- 🖐️ **수어 번역 크롬 익스텐션**   [🔗 GitHub Repo](https://github.com/cvcvcx9/sonnuri) 
+- 🖐️ **수어 번역 크롬 익스텐션  [🔗 GitHub Repo](https://github.com/cvcvcx9/sonnuri) **  
   한국어 텍스트 → 수어 영상으로 번역하는 크롬 확장 프로그램  
   (React Extension Boilerplate + FastAPI + MongoDB + AI 모델 활용)
   
