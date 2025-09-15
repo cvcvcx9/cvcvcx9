@@ -51,11 +51,6 @@
 <!-- 깃허브 사용 언어 비율 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcvcx9&layout=compact&theme=tokyonight)
 
-<!-- 깃허브 활동 그래프 -->
-![Changhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvcvcx9&show_icons=true&theme=tokyonight)
-
-<!-- 잔디 그래프 -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cvcvcx9&theme=tokyonight)
 
 ---
 
