@@ -35,7 +35,7 @@
   한국어 텍스트 → 수어 영상으로 번역하는 크롬 확장 프로그램  
   (React Extension Boilerplate + FastAPI + MongoDB + AI 모델 활용)
   
-- ⏰ **미션 알람 서비스 "깻냥"**
+- ⏰ **미션 알람 서비스 "깻냥"**  
   팀 기반 기상 습관 형성 앱 (WebRTC 인증 + Kafka 알람 서버 + Redis 분산락 적용)
 
 - 💳 **모임 벌금 통장 서비스**  
